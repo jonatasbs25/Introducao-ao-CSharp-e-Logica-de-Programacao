@@ -1,0 +1,16 @@
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
