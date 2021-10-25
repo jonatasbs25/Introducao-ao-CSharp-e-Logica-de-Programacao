@@ -1,0 +1,16 @@
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.exe
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.deps.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.runtimeconfig.dev.json
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\ref\TiposDeDados.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\bin\Debug\net5.0\TiposDeDados.pdb
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.AssemblyReference.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfoInputs.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.AssemblyInfo.cs
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.csproj.CoreCompileInputs.cache
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\ref\TiposDeDados.dll
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.pdb
+J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\obj\Debug\net5.0\TiposDeDados.genruntimeconfig.cache

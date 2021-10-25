@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\1-primeiro-projeto\HelloWorld\
+build_property.RootNamespace = TiposDeDados
+build_property.ProjectDir = J:\jonat\Documents\Cursos\Introducao-ao-CSharp-e-Logica-de-Programacao\2-tipos-de-dados\TiposDeDados\
